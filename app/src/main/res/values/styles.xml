@@ -1,0 +1,29 @@
+<resources>
+
+    <!--  Text Colors Styles         -->
+    <style name="TextColorBase"/>
+
+    <style name="TextColorRed" parent="TextColorBase">
+        <item name="android:textColor">@color/red</item>
+    </style>
+
+    <style name="TextColorGreen" parent="TextColorBase">
+        <item name="android:textColor">@color/green</item>
+    </style>
+
+    <style name="TextColorBlue" parent="TextColorBase">
+        <item name="android:textColor">@color/blue</item>
+    </style>
+
+    <style name="ScreenBackgroundPink">
+        <item name="android:background">@color/bg_pink</item>
+    </style>
+
+    <style name="ScreenBackgroundRose">
+        <item name="android:background">@color/bg_rose</item>
+    </style>
+
+    <style name="ScreenBackgroundYellow">
+        <item name="android:background">@color/bg_yellow</item>
+    </style>
+</resources>
